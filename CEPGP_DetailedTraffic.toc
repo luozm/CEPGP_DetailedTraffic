@@ -1,0 +1,8 @@
+## Interface:20501
+## Title: Classic EPGP - Detailed Traffic
+## Author: 格雷福斯张三
+## Version: 1.0.0
+## Dependencies: CEPGP
+## SavedVariables: CEPGP_DT
+
+Core.lua
